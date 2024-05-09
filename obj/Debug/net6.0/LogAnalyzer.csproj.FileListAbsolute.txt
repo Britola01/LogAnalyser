@@ -1,0 +1,15 @@
+/home/pbrito/dev/LogAnalyzer/obj/Debug/net6.0/LogAnalyzer.csproj.AssemblyReference.cache
+/home/pbrito/dev/LogAnalyzer/obj/Debug/net6.0/LogAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/home/pbrito/dev/LogAnalyzer/obj/Debug/net6.0/LogAnalyzer.AssemblyInfoInputs.cache
+/home/pbrito/dev/LogAnalyzer/obj/Debug/net6.0/LogAnalyzer.AssemblyInfo.cs
+/home/pbrito/dev/LogAnalyzer/obj/Debug/net6.0/LogAnalyzer.csproj.CoreCompileInputs.cache
+/home/pbrito/dev/LogAnalyzer/bin/Debug/net6.0/LogAnalyzer
+/home/pbrito/dev/LogAnalyzer/bin/Debug/net6.0/LogAnalyzer.deps.json
+/home/pbrito/dev/LogAnalyzer/bin/Debug/net6.0/LogAnalyzer.runtimeconfig.json
+/home/pbrito/dev/LogAnalyzer/bin/Debug/net6.0/LogAnalyzer.dll
+/home/pbrito/dev/LogAnalyzer/bin/Debug/net6.0/LogAnalyzer.pdb
+/home/pbrito/dev/LogAnalyzer/obj/Debug/net6.0/LogAnalyzer.dll
+/home/pbrito/dev/LogAnalyzer/obj/Debug/net6.0/refint/LogAnalyzer.dll
+/home/pbrito/dev/LogAnalyzer/obj/Debug/net6.0/LogAnalyzer.pdb
+/home/pbrito/dev/LogAnalyzer/obj/Debug/net6.0/LogAnalyzer.genruntimeconfig.cache
+/home/pbrito/dev/LogAnalyzer/obj/Debug/net6.0/ref/LogAnalyzer.dll
