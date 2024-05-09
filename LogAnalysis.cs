@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 namespace LogAnalyzer {
-    public static class LogAnalysisTools // Classe estática para encapsular o método
+    public static class LogAnalysisTools
     {
         public static void LogAnalysis(List<LogEntry> entries)
         {
