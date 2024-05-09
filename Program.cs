@@ -7,7 +7,7 @@ namespace LogAnalyzer
     {
         static void Main(string[] args)
         {
-            string filePath = "/usr/share/metasploit-framework/vendor/bundle/ruby/3.1.0/extensions/x86_64-linux/3.1.0/strptime-0.2.5/mkmf.log";
+            string filePath = "";
 
             try
             {
